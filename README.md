@@ -11,10 +11,15 @@ new_sort.mergeSort()
 Implemented sorts so far:
 
 -Merge sort
+
 -Bubble sort
+
 -Selection sort
+
 -Insertion sort
+
 -Comb sort
+
 -Shell sort
 
 To time a sort, call the timedRun method. Pass it one of the object's own sort methods:
@@ -22,5 +27,7 @@ To time a sort, call the timedRun method. Pass it one of the object's own sort m
 new_sort.timedRun(new_sort.mergeSort())
 
 TODO:
+
 -Clean up
+
 -Implement more sorts
