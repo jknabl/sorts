@@ -1,6 +1,6 @@
 A bunch of sorts implemented in python. Timed for performance benchmarks.
 
-Everything is a Sort object. To sort some data, create a new instance of Sort:
+Everything is a Sort object. To sort some data (a list), create a new instance of Sort:
 
 new_sort = Sort(data_here)
 
