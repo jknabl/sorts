@@ -26,6 +26,8 @@ To time a sort, call the timedRun method. Pass it one of the object's own sort m
 
 new_sort.timedRun(new_sort.mergeSort())
 
+Use the generateList method to generate random lists of data. Set n=# of items and upper/lower bounds for the data.
+
 TODO:
 
 -Clean up
