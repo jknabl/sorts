@@ -96,8 +96,10 @@ class Sort():
 				i += 1
 		return list	
 	def timedRun(self, func, list=None):
-		#returns a 2-item list. i[0] is the sorted array,
+		"""Returns a 2-item list. i[0] is the sorted array,
 		#i[1] is the runtime
+		
+		"""
 		if list==None:
 			list=self.list
 		start = time()
